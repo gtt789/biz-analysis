@@ -1,0 +1,12 @@
+# 로그 파일 무시
+*.log
+# 빌드 디렉터리 무시
+/build/
+# 임시 파일 무시
+/tmp/
+# 특정 파일 무시
+config.ini
+# 특정 확장자 무시
+*.zip
+# Claude Code 로컬 세션 파일 무시
+/.claude/
